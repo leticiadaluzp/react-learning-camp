@@ -1,9 +1,9 @@
 function positiveSum(arr) {
     total = 0;
     
-    for (const number in arr){
-        if (arr[number] > 0) {
-            total += arr[number];
+    for (const value of arr){
+        if (value > 0) {
+            total += value;
         }
     }
     

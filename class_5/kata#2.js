@@ -4,3 +4,4 @@ function goals (laLigaGoals, copaDelReyGoals, championsLeagueGoals) {
     return total;
     
   }
+  
